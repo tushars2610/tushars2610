@@ -2,6 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on web development
+- 👀 I am interested in App development through flutter
+- 👀 I am currently learning to integrate machine learning with flutter
 - 📫 my email is singhtushar1970@gmail.com
 
 <!---
